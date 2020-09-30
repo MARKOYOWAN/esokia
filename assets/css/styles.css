@@ -90,6 +90,8 @@
 
 #image_web {
   height:50px;
+  background-position:top;
+  margin-top:-25px;
 }
 
 #why .item h2 {
@@ -98,6 +100,9 @@
 
 #why .item {
   margin-top:36px;
+  border-style:groove;
+  border-color:rgb(27,214,255);
+  border-radius:46%;
 }
 
 #why .item h2 {
